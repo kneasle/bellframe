@@ -1,5 +1,11 @@
 # BellFrame
 
+## BellFrame has moved!
+
+It now lives in [kneasle/ringing-monorepo](github.com/kneasle/ringing-monorepo).
+
+---
+
 BellFrame is a library of human friendly data types for concepts which are ubiquitous in change
 ringing (e.g. `Bell`, `Row`, `Stage`, `Method`, etc.).  The aim is to provide a simple library for
 with fast and correct implementations of common operations, rather than providing utilities for
